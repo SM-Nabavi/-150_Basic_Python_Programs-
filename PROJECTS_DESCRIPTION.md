@@ -20,3 +20,4 @@
 18. **Fibonacci** - Recursive number sequence
 19. **Armstrong number** - Check mathematical property
 20. **Armstrong in range** - Search in range
+21. **Addition of natural numbers** - calculate the sum up to n
