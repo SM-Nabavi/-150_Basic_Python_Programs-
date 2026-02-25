@@ -14,8 +14,40 @@ A collection of +150 simple Python projects designed to improve programming logi
 
 - 📝 **Interview preparation** for technical questions
 
+# Before Running Each Project
+### **⚠️ Important: Read the problem statement first!**
 
-## Project implementation
+### Before executing any program, please read its corresponding problem statement and description:
+
+**1.Each project folder (program1/, program2/, etc.) contains a dedicated README.md file**
+
+**2.This README includes :**
+
+- 📝 Complete problem statement
+
+- 🎯 Expected input/output
+
+- 💡 Program description and logic
+
+- 🔍 Implementation details
+
+**3.Always follow this order :**
+
+```
+Step 1: Read programX/README.md → Understand the problem
+
+Step 2: Run programX/main.py → Execute the solution
+```
+
+**This approach helps you :**
+
+- Think about the problem before seeing the solution
+
+- Better understand the programming logic
+
+- Improve your problem-solving skills
+
+# Project implementation
 ### Clone the repository :
 ```
 git clone https://github.com/SM-Nabavi/-150_Basic_Python_Programs-.git
@@ -25,7 +57,14 @@ git clone https://github.com/SM-Nabavi/-150_Basic_Python_Programs-.git
 ```
 cd -150_Basic_Python_Programs-/programs
 ```
+### First, read the problem statement :
 
+Each program folder contains a README.md file with the complete problem description:
+```
+cat program1/README.md  # Read the problem first (Linux/Mac)
+# or
+type program1\README.md  # Read the problem first (Windows)
+```
 ### Run a specific project (example: project 1) :
 ```
 python program1/main.py
