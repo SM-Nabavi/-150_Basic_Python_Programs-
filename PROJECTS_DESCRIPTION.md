@@ -21,3 +21,5 @@
 19. **Armstrong number** - Check mathematical property
 20. **Armstrong in range** - Search in range
 21. **Addition of natural numbers** - calculate the sum up to n
+22. **Find LCM** - Calculate Least Common Multiple using GCD formula
+23. **Convert decimal to binary/octal/hex** - Number base conversion with division method
