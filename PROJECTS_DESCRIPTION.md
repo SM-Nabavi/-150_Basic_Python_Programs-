@@ -23,3 +23,5 @@
 21. **Addition of natural numbers** - calculate the sum up to n
 22. **Find LCM** - Calculate Least Common Multiple using GCD formula
 23. **Convert decimal to binary/octal/hex** - Number base conversion with division method
+24. **Find ASCII value** - Get ASCII code of a character using ord()
+25. **Simple calculator** - Basic arithmetic operations with menu interface
