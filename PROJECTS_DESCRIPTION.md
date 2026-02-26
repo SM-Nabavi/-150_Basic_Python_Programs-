@@ -25,3 +25,4 @@
 23. **Convert decimal to binary/octal/hex** - Number base conversion with division method
 24. **Find ASCII value** - Get ASCII code of a character using ord()
 25. **Simple calculator** - Basic arithmetic operations with menu interface
+26. **Fibonacci sequence using recursion** - Generate Fibonacci numbers with recursive function
